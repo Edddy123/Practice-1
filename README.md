@@ -21,4 +21,4 @@ Family: Quicksand
 Assets folder
 
 # Icon
-Any Icon of your choice (e.g Font Awesome, Boxicon, Flaicon, Ionicon)
+Font Awesome
